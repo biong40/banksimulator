@@ -1,0 +1,20 @@
+                            
+ 
+
+
+
+
+
+                            [ Welcome to Wilder's Bank Simulator 1.0 ]	
+		     
+
+                                       [ SELECT AN OPTION ]
+                                                         
+    
+   				  ARE YOU A NEW OR EXISTING USER ?
+
+
+				 [1] NEW USER    [2] EXISTING USER
+
+
+                                 -> 
